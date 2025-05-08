@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jas-billing
-- 👀 I’m interested in doing and learning a lot😉.
+- 👀 I’m interested in doing and learning a lot.
 - 🌱 I’m currently learning data analysis
 - I am proficient in PowerBI, Excel, MATLAB
 - I am still learning Python
