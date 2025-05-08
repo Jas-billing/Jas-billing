@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Jas-billing
-- 👀 I’m interested in doing anything creative that stimulates my neurons😉.
-- 🌱 I’m currently learning a lot of stuff, but not sure what I am going to complete. 
+- 👀 I’m interested in doing and learning a lot😉.
+- 🌱 I’m currently learning data analysis
+- I am proficient in PowerBI, Excel, MATLAB
+- I am still learning Python
 - 📫 You can reach me by mailing me at-: jas.billing02@gmail.com or my linkedin id-: https://www.linkedin.com/in/jaskeerat-billing-2002b13j07
 
 <!---
