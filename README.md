@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jas-billing
 - 👀 I’m interested in doing and learning a lot.
-- 🌱 I’m currently learning data analysis
-- I am proficient in PowerBI, Excel, MATLAB
-- I am still learning Python
+- 🌱 I am proficient in PowerBI, Excel, MATLAB, Python
 - 📫 You can reach me by mailing me at-: jas.billing02@gmail.com or my linkedin id-: https://www.linkedin.com/in/jaskeerat-billing-2002b13j07
 
 <!---
